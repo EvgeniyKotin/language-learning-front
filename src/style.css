@@ -71,6 +71,7 @@ main {
 	margin-bottom: 50px;
 }
 .auth-button {
+	display: block;
 	width: 80%;
 	border-radius: 10px;
 	margin: 10px auto 0 auto;

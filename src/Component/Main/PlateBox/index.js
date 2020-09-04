@@ -3,7 +3,7 @@ import Plate from './Plate'
 
 function PlateBox() {
     return (
-        <div class="plate-box">
+        <div className="plate-box">
             <Plate />
             <Plate />
             <Plate />
